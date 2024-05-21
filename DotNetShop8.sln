@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetShop", "DotNetShop\DotNetShop.csproj", "{FC514A17-48DF-4242-85AA-47821579A525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC514A17-48DF-4242-85AA-47821579A525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC514A17-48DF-4242-85AA-47821579A525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC514A17-48DF-4242-85AA-47821579A525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC514A17-48DF-4242-85AA-47821579A525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {436D51CF-8C1C-4E1C-9260-87F8D3E5F465}
+	EndGlobalSection
+EndGlobal
