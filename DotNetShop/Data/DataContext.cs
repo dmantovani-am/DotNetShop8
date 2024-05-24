@@ -14,4 +14,5 @@ public class DataContext : DbContext
 
     public DbSet<Order> Orders => Set<Order>();
 
+    public DbSet<Contact> Contacts => Set<Contact>();
 }
